@@ -27,33 +27,69 @@
 
 <br/>
 
-```javascript
-const kaitoflow = {
-    pronouns: "he/him",
-    location: "🌍 Earth",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "AI/ML", "system design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js", "Nuxt.js"],
-            css: ["Tailwind", "Bootstrap", "Styled Components", "SASS"],
-            mobile: ["React Native", "Flutter"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "FastAPI", "Flask"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-            cloud: ["AWS", "Google Cloud", "Azure"]
-        },
-        devOps: ["Docker", "Kubernetes", "GitHub Actions", "Jenkins"],
-        tools: ["Git", "VS Code", "Figma", "Postman", "Jira"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "I debug with console.log and I'm proud of it! 🐛✨",
-    challenge: "I turn coffee into code ☕ → 💻"
-};
-```
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🎯 Who Am I**
+<br/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square&logo=code&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Development-green?style=flat-square&logo=brain&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Location-🌍%20Earth-orange?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-red?style=flat-square&logo=book&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+**💡 What I Do**
+<br/>
+🔥 Build scalable web applications
+<br/>
+🤖 Explore AI/ML technologies
+<br/>
+🚀 Create innovative solutions
+<br/>
+📚 Share knowledge & mentor others
+<br/>
+☕ Turn coffee into code
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🛠️ My Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue" />
+<br/>
+<sub><b>Frontend</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,go" />
+<br/>
+<sub><b>Backend</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" />
+<br/>
+<sub><b>Database</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
+<br/>
+<sub><b>DevOps</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
