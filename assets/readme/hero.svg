@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">KaitoFlow</title>
+  <desc id="desc">Full-stack builder exploring AI agents, data pipelines, and systems tooling.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0E11"/>
+      <stop offset="55%" stop-color="#10151A"/>
+      <stop offset="100%" stop-color="#0D1210"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2BB673"/>
+      <stop offset="55%" stop-color="#3CCF8E"/>
+      <stop offset="100%" stop-color="#E8A838"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1A2229" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#243039" stroke-width="1.5"/>
+
+  <rect x="0" y="88" width="6" height="184" rx="3" fill="url(#flow)"/>
+
+  <g id="title-block" transform="translate(56 54)">
+    <text x="0" y="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3.2" fill="#7A828C">PROFILE / BUILDER</text>
+    <text x="0" y="92" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="72" font-weight="700" fill="#EDEAE4">KaitoFlow</text>
+    <text x="0" y="142" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24" fill="#B7BFC8">AI agents / data pipelines / full-stack systems</text>
+    <text x="0" y="188" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#7A828C">Learning in public through focused OSS exploration.</text>
+
+    <g transform="translate(0 224)">
+      <rect x="0" y="0" width="118" height="34" rx="8" fill="#152019" stroke="#2BB673" stroke-width="1.5"/>
+      <text x="59" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#3CCF8E">agents</text>
+      <rect x="130" y="0" width="118" height="34" rx="8" fill="#1A1710" stroke="#E8A838" stroke-width="1.5"/>
+      <text x="189" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#E8A838">pipelines</text>
+      <rect x="260" y="0" width="118" height="34" rx="8" fill="#14181D" stroke="#4A5966" stroke-width="1.5"/>
+      <text x="319" y="23" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#B7BFC8">systems</text>
+    </g>
+  </g>
+
+  <g id="project-proof" transform="translate(720 48)">
+    <rect x="0" y="0" width="424" height="264" rx="18" fill="#0A0D10" stroke="#243039" stroke-width="1.5"/>
+    <text x="28" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2" fill="#7A828C">SIGNAL FLOW</text>
+
+    <path d="M56 128 C140 128, 160 78, 244 78 C300 78, 318 168, 372 168" fill="none" stroke="url(#flow)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M56 168 C130 168, 150 220, 236 220 C300 220, 320 128, 372 128" fill="none" stroke="#2BB673" stroke-width="1.8" stroke-opacity="0.35" stroke-linecap="round"/>
+
+    <g>
+      <circle cx="56" cy="128" r="10" fill="#0A0D10" stroke="#2BB673" stroke-width="2.5"/>
+      <circle cx="56" cy="128" r="4" fill="#2BB673"/>
+      <text x="56" y="162" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#EDEAE4">Ideas</text>
+    </g>
+    <g>
+      <circle cx="244" cy="78" r="10" fill="#0A0D10" stroke="#3CCF8E" stroke-width="2.5"/>
+      <circle cx="244" cy="78" r="4" fill="#3CCF8E"/>
+      <text x="244" y="54" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#EDEAE4">Agents</text>
+    </g>
+    <g>
+      <circle cx="236" cy="220" r="10" fill="#0A0D10" stroke="#7A828C" stroke-width="2.5"/>
+      <circle cx="236" cy="220" r="4" fill="#7A828C"/>
+      <text x="236" y="252" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#B7BFC8">Data</text>
+    </g>
+    <g>
+      <circle cx="372" cy="148" r="12" fill="#0A0D10" stroke="#E8A838" stroke-width="2.5"/>
+      <circle cx="372" cy="148" r="4.5" fill="#E8A838"/>
+      <text x="372" y="188" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#EDEAE4">Ship</text>
+    </g>
+
+    <text x="28" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#5C6670">kaitoflow / continuous learning loop</text>
+  </g>
+</svg>
